@@ -105,7 +105,7 @@
   /* mobile devices */
   @media screen and (max-width:480px) {
     body{
-      width: 40px;
+      width:100%;
     }
 
     
